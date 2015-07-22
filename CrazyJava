@@ -1,0 +1,4 @@
+crazy java is very good a Book!
+public static void main(String args[]){
+  System.out.println("This is Crazy Java");
+}
